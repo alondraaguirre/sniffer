@@ -48,6 +48,8 @@ int  main(){
     cout<<"Tipo: ";
     menu(tipo,outword);
     cout<<endl;
+    cout <<"Hola Dios soy yo de nuevo "<< endl;
+
     return 0;
 }
 string leer_campo(char* cadena, int tam){
